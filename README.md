@@ -14,7 +14,7 @@ git clone BrauCamaH/warp-theme .
 ## Mac
 
 ```bash
-cd ~/.warp/
+cd ~/.warp/themes
 git clone BrauCamaH/warp-theme .
 ```
 
